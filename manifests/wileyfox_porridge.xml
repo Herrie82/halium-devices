@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/wileyfox/porridge" name="Herrie82/android_device_wileyfox_porridge_x32" remote="hal" revision="master" />
+
+    <project path="kernel/wileyfox/porridge" name="Skyrimus/kernel_porridge_3.18.xx" remote="hal" revision="android-wf-7.0"/>
+
+    <project path="vendor/wileyfox/porridge" name="Skyrimus/android_vendor_wileyfox_porridge_x32" remote="hal" revision="master" />
+</manifest>
